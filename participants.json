@@ -14,11 +14,10 @@
     "Description": "Eveningness subscale from Morningness-Eveningness-Stability-Scale improved (MESSi) questionnaire (Randler et al., 2016)",
     "Units": "points"
   },
-},
-"Morning_affect": {
-  "Description": "Morning affect subscale from Morningness-Eveningness-Stability-Scale improved (MESSi) questionnaire (Randler et al., 2016)",
-  "Units": "points"
-},
+  "Morning_affect": {
+    "Description": "Morning affect subscale from Morningness-Eveningness-Stability-Scale improved (MESSi) questionnaire (Randler et al.,  2016)",
+    "Units": "points"
+  },
   "SPSRQ_SP": {
     "Description": "Sensitivity to punishment subscale from Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ; (Torrubia et al., 2001)",
     "Units": "points"
