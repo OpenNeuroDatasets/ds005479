@@ -1,0 +1,11 @@
+{
+  "onset": {
+    "Description": "Time of event onset in seconds from the beginning of the scan."
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds."
+  },
+  "trial_type": {
+    "Description": "Type of trial ('Win big', 'Win small', 'Loss big', 'Loss small')."
+  }
+}
